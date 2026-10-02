@@ -1,0 +1,49 @@
+Customer_ID,Customer_Name,Age,Gender,City,Product,Category,Quantity,Price,Total_Amount,Purchase_Date
+CUST1001,Rajesh Kumar,32,Male,Chennai,Wireless Mouse,Electronics,2,₹850,1700,2026-01-15
+CUST1002,Priya Sharma,28,female,Bengaluru,Mechanical Keyboard,Electronics,1,₹3500,3500,15/01/2026
+CUST1003,Arun Vijay,45,M,Coimbatore,Gaming Chair,Furniture,1,₹12500,12500,2026-01-18
+CUST1004,Sneha Patel,,Female,coimbatore,USB-C Hub,Electronics,3,₹1200,3600,01/20/2026
+CUST1005,Vikram Singh,35,MALE, COIMBATORE ,Standing Desk,Furniture,1,₹22000,22000,2026/01/22
+CUST1006,Ananya Roy,29,female,Chennai City,Monitor 27-inch,Electronics,1,₹18500,18500,2026-01-25
+CUST1007,Karthik Raja,52,Male,Madurai,Noise Cancelling Headphones,Electronics,2,₹6500,13000,2026-01-28
+CUST1008,Meera Nair,24,F,Kochi,Ergonomic Mouse,Electronics,1,₹1500,1500,02/01/2026
+CUST1009,Suresh Babu,61,M,Tiruchirappalli,Desk Lamp,Furniture,2,₹950,1900,2026-02-03
+CUST1010,Deepa Lakshmi,31,Female,Chennai,Webcam HD,Electronics,1,₹2800,2800,2026-02-05
+CUST1001,Rajesh Kumar,32,Male,Chennai,Wireless Mouse,Electronics,2,₹850,1700,2026-01-15
+CUST1011,Rohan Mehta,27,male,Bengaluru,Bluetooth Speaker,Electronics,1,₹4200,4200,2026-02-08
+CUST1012,Kavitha Reddy,,F,Hyderabad,Laptop Stand,Accessories,2,₹1100,2200,10/02/2026
+CUST1013,Sanjay Gupta,41,Male,Delhi,External SSD 1TB,Electronics,1,₹7500,7500,2026-02-12
+CUST1014,Divya Krishnan,33,female,Coimbatore,Mechanical Keyboard,Electronics,2,₹3500,7000,2026-02-15
+CUST1015,Manoj Kumar,39,M,chennai,Wireless Charger,Electronics,3,₹890,2670,2026-02-18
+CUST1016,Pooja Verma,26,Female,Mumbai,Leather Journal,Stationery,5,₹450,2250,2026-02-20
+CUST1017,Ganesh Prasad,48,MALE,Bengaluru,Office Chair,Furniture,1,₹15000,15000,2026-02-22
+CUST1018,Swati Sen,30,,Kolkata,Coffee Mug Set,Home,2,₹650,1300,2026-02-25
+CUST1019,Harish Chandra,55,Male,Delhi,UltraWide Monitor,Electronics,1,₹45000,45000,2026-02-28
+CUST1020,Nisha Joshi,23,female,Pune,Smart Watch,Electronics,1,₹8990,8990,03/02/2026
+CUST1005,Vikram Singh,35,MALE, COIMBATORE ,Standing Desk,Furniture,1,₹22000,22000,2026/01/22
+CUST1021,Aravind Swamy,42,M,Chennai,Bluetooth Earbuds,Electronics,2,₹2490,4980,2026-03-05
+CUST1022,Bhavna Agarwal,37,Female,Jaipur,Desk Mat XL,Accessories,1,₹990,990,2026-03-08
+CUST1023,Chetan Sharma,50,Male,Chandigarh,Power Bank 20000mAh,Electronics,1,₹2100,2100,2026-03-10
+CUST1024,Dharani Kumar,,f,Madurai,Cable Organizer,Accessories,4,₹250,1000,2026-03-12
+CUST1025,Esha Kapoor,29,Female,Delhi,Microphone USB,Electronics,1,₹5400,5400,2026-03-15
+CUST1026,Farhan Akhtar,36,M,Mumbai,Screen Lightbar,Electronics,1,₹3200,3200,2026-03-18
+CUST1027,Gitanjali Das,31,female,Bhubaneswar,Paper Shredder,Office,1,₹4800,4800,2026-03-20
+CUST1028,Hemant Rao,99,Male,Hyderabad,Super Luxury Gold Pen,Office,1,₹750000,750000,2026-03-22
+CUST1029,Indira Pillai,44,F,Thiruvananthapuram,Foot Rest Ergonomic,Furniture,1,₹1850,1850,2026-03-25
+CUST1030,Jatin Shah,28,male,Ahmedabad,Dual Monitor Arm,Furniture,1,₹4900,4900,2026-03-28
+CUST1031,Komal Malhotra,34,Female,Lucknow,Whiteboard 4x3,Office,1,₹2300,2300,04/01/2026
+CUST1032,Lokesh Natarajan,40,M,Coimbatore City,Vertical Mouse,Electronics,2,₹2200,4400,2026-04-03
+CUST1033,Madhuri Dixit,46,female,Mumbai,Air Purifier Desk,Home,1,₹6800,6800,2026-04-05
+CUST1034,Naveen Patnaik,53,Male,Cuttack,Ergonomic Cushion,Furniture,2,₹1290,2580,2026-04-08
+CUST1035,Owais Khan,25,M,Bhopal,Blue Light Glasses,Accessories,2,₹850,1700,2026-04-10
+CUST1036,Padma Sundaram,,F,Chennai,Surge Protector Strip,Electronics,3,₹790,2370,2026-04-12
+CUST1037,Qasim Ali,38,Male,Srinagar,Thermal Travel Mug,Home,1,₹1150,1150,2026-04-15
+CUST1038,Rukmini Devi,47,female,Mysore,Acoustic Desk Panel,Office,2,₹3100,6200,2026-04-18
+CUST1039,Siddharth Malhotra,33,MALE,Bengaluru,Laptop Backpack,Accessories,1,₹2990,2990,2026-04-20
+CUST1040,Trisha Krishnan,29,F,Chennai,Ring Light 10-inch,Electronics,1,₹1450,1450,2026-04-22
+,,,,,,,,,,
+CUST1041,Uday Shankar,49,M,Patna,Unicorn Magic Wand,Toys,-5,₹999999,999999,2026-04-25
+CUST1042,Vaishnavi Rao,27,Female,Bengaluru,Wireless Keyboard,Electronics,1,₹2800,,2026-04-28
+CUST1043,Wasim Akram,41,Male,Kolkata,HDMI Adapter 4K,Electronics,2,₹650,1300,2026-05-01
+CUST1044,Yashasvi Jaiswal,22,male,Surat,Gaming Mousepad,Electronics,1,₹790,790,2026-05-03
+CUST1045,Zoya Akhtar,35,female,Mumbai,Noise Cancelling Earplugs,Accessories,2,₹1200,2400,2026-05-05
